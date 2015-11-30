@@ -8,31 +8,27 @@ http://www.linkedin.com/in/peterrosal
 
 Initially starting my career in finance operations, I have developed a strong familiarity with meeting objectives while managing risk, but truly desired a creative outlet to marry my problem solving skills with my design aesthetic. With this pivot I hope to pursue constant improvement and use best practices in web development skills to write and maintain quality code. I am dedicated to collaborating on and delivering work that is representative of my passion to create meaningful applications that leave users feeling inspired. I look to further my professional growth to enable myself to share with and progress the developer community.
 
-#Work Experience (only last 10 years)
+#Projects
 
-## Company Name 1 (City, State)
-*[Company 1][] description, particularly if not well-known.*
+## SoapStone
 
-**Position Title (include alternate titles in parentheses)** (Start Date - End Date)
+Redefining the social experience through geolocation, where users move into close proximity of other users geotagged posts in order to view, like or comment. 
 
-Summary of your role
+- Successfully modeled relationships of Users, Posts, Comments, Likes, and Follows
+- Utilized and customized Google Maps API to fit app specification
+- Ruby on Rails back end to manage database queries and updates
+- Incorporated Geokit for location data, Paperclip for image management, Auth0 for user authentication
+- Relied on Javascript MVC using JQuery to handle data on front end
+- Launched using Heroku for application hosting and AWS S3 for application media storage
 
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
+## Turtle Overflow
 
-## Company Name 2 (City, State)
-*[Company 2][] description, particularly if not well-known.*
+Recreating Stack Overflow where users can ask questions to which others can answer, comment, and vote, utilizing Ruby on Rails.
 
-**Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
+- Utilized Active Record to manage the relationships with Users, Questions, Answers, Comments, and Votes
+- Validated model state and relationships prior to database entry
+- Mapped RESTful routes of HTTP verbs and URLs to controller actions
+- Implemented TDD utilizing RSpec, Factory Girl, and Shoulda Matchers
 
 ## Company Name 3 (City, State)
 *[Company 3][] description, particularly if not well-known.*
