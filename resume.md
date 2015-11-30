@@ -1,15 +1,12 @@
 #Peter Rosal
 (630) 290-7468  
-
-peter.rosal@gmail.com 
-
-http://r05al.github.io/
-
+peter.rosal@gmail.com  
+http://r05al.github.io/  
 http://www.linkedin.com/in/peterrosal  
 
 #Summary
 
-Quick Summary (not objective) specifically highlighting why you qualify for the job.
+Initially starting my career in finance operations, I have developed a strong familiarity with meeting objectives while managing risk, but truly desired a creative outlet to marry my problem solving skills with my design aesthetic. With this pivot I hope to pursue constant improvement and use best practices in web development skills to write and maintain quality code. I am dedicated to collaborating on and delivering work that is representative of my passion to create meaningful applications that leave users feeling inspired. I look to further my professional growth to enable myself to share with and progress the developer community.
 
 #Work Experience (only last 10 years)
 
