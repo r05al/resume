@@ -9,16 +9,20 @@ http://www.linkedin.com/in/peterrosal
 Initially starting my career in finance operations, I have developed a strong familiarity with meeting objectives while managing risk, but truly desired a creative outlet to marry my problem solving skills with my design aesthetic. With this pivot I hope to pursue constant improvement and use best practices in web development skills to write and maintain quality code. I am dedicated to collaborating on and delivering work that is representative of my passion to create meaningful applications that leave users feeling inspired. I look to further my professional growth to enable myself to share with and progress the developer community.
 
 ##Education
-###Dev Bootcamp
+####Dev Bootcamp
 Full-Stack Web Development 2015
 
-###Northern Illinois University
+####Northern Illinois University
 B.S. Finance  
 Minor Economics  
 
+##Skills
+###Languages
+
+
 ##Projects
 
-### SoapStone
+####SoapStone
 
 Redefining the social experience through geolocation, where users move into close proximity of other users geotagged posts in order to view, like or comment. 
 
@@ -29,7 +33,7 @@ Redefining the social experience through geolocation, where users move into clos
 - Relied on Javascript MVC using JQuery to handle data on front end
 - Launched using Heroku for application hosting and AWS S3 for application media storage
 
-###Turtle Overflow
+####Turtle Overflow
 
 Recreating Stack Overflow where users can ask questions to which others can answer, comment, and vote, utilizing Ruby on Rails.
 
@@ -39,19 +43,19 @@ Recreating Stack Overflow where users can ask questions to which others can answ
 - Implemented TDD utilizing RSpec, Factory Girl, and Shoulda Matchers
 
 ##Employment
-###JPM Investor Services (New York, NY)
+####JPM Investor Services (New York, NY)
 **Prime Brokerage Transaction Support**
 
 - Deliver high-level service to client traded domestic and intl equity, fixed income, repo, and options
 - Created macros to manage client workflow accurately and efficiently
 
-###JPM Asset Management (New York, NY)
+####JPM Asset Management (New York, NY)
 **Fixed Income Trade Support**
 
 - Managed team in production environment ensuring deadlines are met and full coverage for trading desk
 - Maintained spreadsheets to ensure accounts are fully invested and balances are within set guidelines
  
-###Bank of America (Chicago, IL)
+####Bank of America (Chicago, IL)
 **Credit Derivatives Settlements Analyst**
 
 - Handled client settlements on single name CDS, CDX IG and HY, ABS, CMBS and FX trades 
