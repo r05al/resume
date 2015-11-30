@@ -1,9 +1,8 @@
-#Your Name
-1234 Main St., City, State 12345  
-(555) 555-5555  
-your.name@example.com  
-http://www.example.com  
-http://www.linkedin.com/in/yourname  
+#Peter Rosal
+(630) 290-7468  
+peter.rosal@gmail.com 
+http://r05al.github.io/
+http://www.linkedin.com/in/peterrosal  
 
 #Summary
 
