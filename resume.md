@@ -8,6 +8,14 @@ http://www.linkedin.com/in/peterrosal
 
 Initially starting my career in finance operations, I have developed a strong familiarity with meeting objectives while managing risk, but truly desired a creative outlet to marry my problem solving skills with my design aesthetic. With this pivot I hope to pursue constant improvement and use best practices in web development skills to write and maintain quality code. I am dedicated to collaborating on and delivering work that is representative of my passion to create meaningful applications that leave users feeling inspired. I look to further my professional growth to enable myself to share with and progress the developer community.
 
+#Education
+## Dev Bootcamp
+Full-Stack Web Development 2015
+
+## Northern Illinois University
+B.S. Finance  
+Minor Economics  
+
 #Projects
 
 ## SoapStone
