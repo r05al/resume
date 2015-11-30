@@ -17,8 +17,20 @@ B.S. Finance
 Minor Economics  
 
 ##Skills
-###Languages
-
+LANGUAGES  
+Ruby, Javascript, Python, PHP, VBA  
+FRONT END  
+HTML, CSS, JQuery, Bootstrap  
+FRAMEWORKS  
+Rails, Sinatra, Google Maps API  
+TESTING FRAMEWORKS  
+RSpec, Capybara, Factory Girl, Shoulda Matchers, Jasmine  
+DATABASE  
+Active Record, PostgreSQL, SQLite  
+METHODOLOGIES  
+Agile, TDD, OOD, MVC, RESTful Design  
+ENTERPRISE SOFTWARE  
+Excel: Macros, PivotTables, Analysis ToolPack  
 
 ##Projects
 
