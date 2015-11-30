@@ -30,19 +30,20 @@ Recreating Stack Overflow where users can ask questions to which others can answ
 - Mapped RESTful routes of HTTP verbs and URLs to controller actions
 - Implemented TDD utilizing RSpec, Factory Girl, and Shoulda Matchers
 
-## Company Name 3 (City, State)
-*[Company 3][] description, particularly if not well-known.*
+#Employment
+## JPM Investor Services (New York, NY)
+**Prime Brokerage Transaction Support**
 
-**Position Title (include alternate titles in parentheses)** (Start Date - End Date)
+- Deliver high-level service to client traded domestic and intl equity, fixed income, repo, and options
+- Created macros to manage client workflow accurately and efficiently
 
-Summary of your role
+## JPM Asset Management (New York, NY)
+**Fixed Income Trade Support**
 
-- Accomplishment
-- Accomplishment
-- Accomplishment
-- Accomplishment
+- Managed team in production environment ensuring deadlines are met and full coverage for trading desk
+- Maintained spreadsheets to ensure accounts are fully invested and balances are within set guidelines
+ 
+## Bank of America (Chicago, IL)
+**Credit Derivatives Settlements Analyst**
 
-
-[Company 1]: http://www.example.com/company1
-[Company 2]: http://www.example.com/company2
-[Company 3]: http://www.example.com/company2
+- Handled client settlements on single name CDS, CDX IG and HY, ABS, CMBS and FX trades 
